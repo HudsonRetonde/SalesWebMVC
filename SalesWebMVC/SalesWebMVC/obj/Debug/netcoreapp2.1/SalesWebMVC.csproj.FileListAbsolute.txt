@@ -8,7 +8,6 @@ C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.dll
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
-C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfo.cs
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
@@ -34,3 +33,5 @@ C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
