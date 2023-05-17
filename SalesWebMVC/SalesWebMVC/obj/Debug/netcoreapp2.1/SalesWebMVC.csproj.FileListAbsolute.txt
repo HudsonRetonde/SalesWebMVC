@@ -32,7 +32,6 @@ C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
-C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs

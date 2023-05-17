@@ -3,7 +3,7 @@ using System;
 
 namespace SalesWebMVC.Models
 {
-	public class SallesRecord
+	public class SalesRecord
 	{
 		public int Id { get; set; }
 		public DateTime Date { get; set; }
@@ -11,11 +11,11 @@ namespace SalesWebMVC.Models
 		public SalesStatus Status { get; set; }
 		public Seller Seller  { get; set; }
 
-		public SallesRecord()
+		public SalesRecord()
 		{
 		}
 
-		public SallesRecord(int id, DateTime date, double amount, SalesStatus status, Seller seller)
+		public SalesRecord(int id, DateTime date, double amount, SalesStatus status, Seller seller)
 		{
 			Id = id;
 			Date = date;
