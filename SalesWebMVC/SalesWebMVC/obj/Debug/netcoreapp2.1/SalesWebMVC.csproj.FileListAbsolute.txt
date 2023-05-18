@@ -40,3 +40,5 @@ C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
