@@ -27,7 +27,7 @@ namespace SalesWebMVC.Controllers
 		}
 
 		[HttpPost]
-		[ValidateAntiForgeryToken]
+		[ValidateAntiForgeryToken ]
 		public IActionResult Create(Seller seller)
 		{
 			_sellerService.Insert(seller);
