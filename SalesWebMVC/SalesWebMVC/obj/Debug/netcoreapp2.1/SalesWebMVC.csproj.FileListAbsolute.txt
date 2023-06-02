@@ -44,3 +44,4 @@ C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
 C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\hudso\OneDrive\Documentos\projetos\SalesWebMVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
